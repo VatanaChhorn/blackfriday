@@ -1,0 +1,14 @@
+{
+  "name": "Long Distance: Your Couple App",
+  "url": "https://apps.apple.com/app/id6757593531",
+  "description": "Couples app: photos and doodles land on your partner's Home Screen widget, plus a Shared Note, countdowns and couple quizzes you answer apart",
+  "category": "lifestyle",
+  "platforms": ["ios"],
+  "deal": "50% off Shared Lifetime, one purchase for both of you: $99.99 → $49.99",
+  "pricing": "lifetime",
+  "price": { "regular": 99.99, "sale": 49.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/8f/76/a68f7658-ee54-8ca2-6ecf-fc4602ac189c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg"
+}

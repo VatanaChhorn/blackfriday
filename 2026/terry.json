@@ -1,0 +1,14 @@
+{
+  "name": "Terry: Pedometer Step Counter",
+  "url": "https://apps.apple.com/app/id6818785615",
+  "description": "Step counter with a llama who walks with you: he gets fit as you walk and a little round when you rest. Daily goal ring, streaks, no guilt",
+  "category": "lifestyle",
+  "platforms": ["ios"],
+  "deal": "50% off Terry+ Lifetime: $79.99 → $39.99, no subscription",
+  "pricing": "lifetime",
+  "price": { "regular": 79.99, "sale": 39.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/b7/62/0fb76229-de0a-1c88-c92a-97c7b33bf802/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+}
