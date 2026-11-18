@@ -3,7 +3,7 @@
   "url": "https://apps.apple.com/app/id6818785615",
   "description": "Step counter with a llama who walks with you: he gets fit as you walk and a little round when you rest. Daily goal ring, streaks, no guilt",
   "category": "lifestyle",
-  "platforms": ["ios"],
+  "platforms": ["ios", "ipad"],
   "deal": "50% off Terry+ Lifetime: $79.99 → $39.99, no subscription",
   "pricing": "lifetime",
   "price": { "regular": 79.99, "sale": 39.99, "currency": "USD" },

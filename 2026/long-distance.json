@@ -4,7 +4,7 @@
   "description": "Couples app: photos and doodles land on your partner's Home Screen widget, plus a Shared Note, countdowns and couple quizzes you answer apart",
   "category": "lifestyle",
   "platforms": ["ios"],
-  "deal": "50% off Shared Lifetime, one purchase for both of you: $99.99 → $49.99",
+  "deal": "50% off Premium Lifetime, one purchase for both of you: $99.99 → $49.99",
   "pricing": "lifetime",
   "price": { "regular": 99.99, "sale": 49.99, "currency": "USD" },
   "discount": 50,
