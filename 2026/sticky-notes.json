@@ -8,7 +8,7 @@
   "pricing": "lifetime",
   "price": { "regular": 39.99, "sale": 19.99, "currency": "USD" },
   "discount": 50,
-  "startDate": "2026-11-26",
-  "endDate": "2026-12-01",
+  "startDate": "2026-11-19",
+  "endDate": "2026-12-31",
   "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/80/fe/9f80feaf-f779-8f31-8b31-578ea2ef34c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
 }
